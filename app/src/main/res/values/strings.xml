@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="edit_message">Enter your name</string>
+    <string name="button_send">Send</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+    <string name="hello">Hello,</string>
+    <string name="welcome_i_am_being_held_here_against_my_will_and_while_you_and_i_are_both_stuck_here_you_might_as_well_adventure_into_my_other_tab_to_find_out_more_about_this_app_see_you_soon">Welcome! I am being held here against my will, and while you and I are both stuck here you might as well adventure into my other tab to find out more about this app. See you soon!</string>
+    <string name="tpklogo">tpklogo</string>
+    <string name="welcome">Welcome to TPK Entertainment!</string>
+    <string name="Desc">Hello everyone, some big news that I am super excited for is that Treyarch is coming out with a whole new CoD. Its been a minute since we have seen a game from Treyarch, but they are bring back all of our favorites with zombies and 4 very common multiplayer maps that are fan favorites. I hope you are just as excited as I am to get back into a CoD made by Treyarch!</string>
+    <string name="codlogo">codlogo</string>
+    <string name="sendbutton">Button</string>
+</resources>
